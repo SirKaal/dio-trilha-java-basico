@@ -11,8 +11,6 @@ Existem 3 pastas e um README.
 - `README.md`: Arquivo presente com informações básicas
 - `.vscode`: Contém settings.json
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
 ## Problemas iniciais
 
 O projeto teve algumas dificuldades para ser concretizado, pela falta de conhecimento da classe "import", importante para que funcione a linha de código "scanner" e "Locale".
